@@ -1,2 +1,2 @@
 # List-Implementations
-	List	ADT	using	a dynamic	array	implementation.	
+	List ADT using dynamic array implementation.
