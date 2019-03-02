@@ -1,2 +1,2 @@
 # List-Implementations
-Dynamic array examples
+	List	ADT	using	a dynamic	array	implementation.	
